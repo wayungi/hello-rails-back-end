@@ -128,7 +128,7 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this repository to your desired folder: git@github.com:wayungi/hello-rails-app.git
+Clone this repository to your desired folder: git@github.com:wayungi/hello-rails-back-end.git
 cd into hello-rails-app
 
 ### Install
@@ -140,7 +140,7 @@ Install this project with:
 ### Usage
 
 To run the project, execute the following command:
-- ./bin/dev
+- rails s
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
